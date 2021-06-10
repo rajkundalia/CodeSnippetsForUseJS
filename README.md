@@ -1,1 +1,1 @@
-# CodeSnippetsForUserJS
+Code snippets for use
